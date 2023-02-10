@@ -37,12 +37,13 @@ body
     transition: transform 1.5s ease-in-out;
 }
 
+
+/* 
 .point
 {
     position: absolute;
     top: 50%;
     left: 50%;
-    /* pointer-events: none; */
 }
 
 .point .label
@@ -94,4 +95,4 @@ body
 .point.visible .label
 {
     transform: scale(1, 1);
-}
+} */
